@@ -4,5 +4,5 @@
 **I'm Miriam Garcia Zapata** it´s my ✨  GitHub profile.✨ 
 
 - 🔭 I’m currently working on Ensamble
-- 🌱 I’m currently learning ReactNative
+- 🌱 I’m back end and app developer
 - ⚡ I'm code like a girl
